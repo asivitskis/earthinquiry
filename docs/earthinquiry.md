@@ -1,0 +1,4 @@
+
+# earthinquiry module
+
+::: earthinquiry.earthinquiry

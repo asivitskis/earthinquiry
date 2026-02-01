@@ -1,0 +1,17 @@
+# earthinquiry
+
+
+[![image](https://img.shields.io/pypi/v/earthinquiry.svg)](https://pypi.python.org/pypi/earthinquiry)
+[![image](https://img.shields.io/conda/vn/conda-forge/earthinquiry.svg)](https://anaconda.org/conda-forge/earthinquiry)
+
+
+**A python package for customizing place-based geo-inquiry activities**
+
+
+-   Free software: MIT License
+-   Documentation: https://asivitskis.github.io/earthinquiry
+    
+
+## Features
+
+-   TODO
