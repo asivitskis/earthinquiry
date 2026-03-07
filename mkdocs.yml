@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/asivitskis/earthinquiry/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - earthinquiry module: earthinquiry.md
           - common module: common.md
