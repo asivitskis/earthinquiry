@@ -2,7 +2,6 @@
 
 """Tests for `earthinquiry` package."""
 
-
 import unittest
 
 from earthinquiry import earthinquiry

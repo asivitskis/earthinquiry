@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://asivitskis.github.io/earthinquiry>
-    
+
 
 ## Features
 
